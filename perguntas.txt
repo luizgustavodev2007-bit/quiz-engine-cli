@@ -1,0 +1,3 @@
+Qual das seguintes opcoes NAO e um tipo primitivo em C?|A) int|B) float|C) string|D) char|C
+Qual operador e usado para comparar igualdade em C?|A) =|B) ==|C) ===|D) !=|B
+Qual estrutura garante a execucao ao menos uma vez?|A) while|B) for|C) do-while|D) switch|C
